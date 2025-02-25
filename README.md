@@ -1,6 +1,4 @@
-Assignment 
-Make tweaks, leave comments, and share with others to edit at the same time.
-NO THANKSUSE THE APP
+
 
 SE_Day1_Assignment
 SE_Day1_Assignment
